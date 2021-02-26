@@ -8,7 +8,7 @@
   --white: #fff;
   --light-gray: #e8e9ec;
   --gray: #969696;
-  --dark-gray: 2e3349;
+  --dark-gray: #2e3349;
   --font-light: 400;
   --font-bold: 700;
   --blue: #41cbd3;
@@ -120,3 +120,4 @@ p {
 .attribution a:hover {
   text-decoration: underline;
 }
+
